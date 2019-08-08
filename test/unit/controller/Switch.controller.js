@@ -1,0 +1,1 @@
+sap.ui.define(["sap/m/sample/Control_extension/project_29/controller/Switch.controller"],function(t){"use strict";QUnit.module("Switch Controller");QUnit.test("I should test the Switch controller",function(o){var n=new t;n.onInit();o.ok(n)})});

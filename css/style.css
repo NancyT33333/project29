@@ -1,0 +1,12 @@
+
+html[dir="ltr"] .myCustomSwt.sapMSwtCont .sapMSwt {
+    width: 6rem;
+}
+
+html[dir="ltr"] .myCustomSwt .sapMSwtOn .sapMSwtHandle {
+    left: 4.25rem;
+}
+
+html[dir="ltr"] .myCustomSwt .sapMSwtLabelOff {
+	margin-right: 0.2rem;
+}

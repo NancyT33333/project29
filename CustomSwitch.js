@@ -1,0 +1,1 @@
+sap.ui.define(["sap/m/Switch","sap/m/SwitchRenderer"],function(e,t){"use strict";var e=e.extend("sap.m.sample.Control_extension.project_29.CustomSwitch",{renderer:t});e.prototype.onAfterRendering=function(){this.addStyleClass("myCustomSwt")};return e});

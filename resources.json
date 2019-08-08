@@ -1,0 +1,69 @@
+{
+    "resources": [
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "CustomSwitch.js"
+        },
+        {
+            "name": "controller/Switch.controller.js"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "manifest-bundle.zip"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "model/models-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "CustomSwitch-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "controller/Switch-dbg.controller.js",
+            "isDebug": true
+        },
+        {
+            "name": "Component-dbg.js",
+            "isDebug": true
+        },
+        {
+            "name": "../../../../../sap-ui-version.json"
+        },
+        {
+            "name": "neo-app.json"
+        },
+        {
+            "name": "di.code-validation.core_issues.json"
+        },
+        {
+            "name": "view/Switch.view.xml"
+        },
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "i18n/i18n_ru.properties",
+            "raw": "i18n/i18n.properties",
+            "locale": "_ru"
+        },
+        {
+            "name": "css/style.css"
+        }
+    ]
+}

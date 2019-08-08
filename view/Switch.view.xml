@@ -1,0 +1,18 @@
+<mvc:View controllerName="sap.m.sample.Control_extension.project_29.controller.Switch"
+	xmlns:cust="sap.m.sample.Control_extension.project_29" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}">
+					<subHeader>
+						<Toolbar>
+							<Switch state="false"/>
+							<cust:CustomSwitch state="true"/>
+						</Toolbar>
+					</subHeader>
+					<content></content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
